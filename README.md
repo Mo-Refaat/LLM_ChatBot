@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multimodal LLM Chatbot
 
 A professional, extensible Streamlit-based chatbot platform for multimodal AI interactions. This project enables users to interact with documents, images, and audio using advanced NLP and vision models, supporting document Q&A, summarization, image captioning, visual question answering, and audio features.
@@ -171,3 +172,7 @@ This project is licensed under the MIT License.
 - [HuggingFace](https://huggingface.co/)
 - [LangChain](https://python.langchain.com/)
 - [FAISS](https://faiss.ai/)
+=======
+# LLM_ChatBot
+A professional, extensible Streamlit-based chatbot platform for multimodal AI interactions. This project enables users to interact with documents, images, and audio using advanced NLP and vision models, supporting document Q&amp;A, summarization, image captioning, visual question answering, and audio features.
+>>>>>>> c2df89f71062775f76da4c317c5a8664894c735a
